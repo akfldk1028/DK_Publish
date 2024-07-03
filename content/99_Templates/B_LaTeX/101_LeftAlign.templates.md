@@ -1,0 +1,1 @@
+$$ \begin{flalign*} <contet> && \end{flalign*} $$
